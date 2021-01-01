@@ -4,4 +4,4 @@
 
 <br>
 
-!["Image"](resume.png)
+!["Image"](Resume.png)
